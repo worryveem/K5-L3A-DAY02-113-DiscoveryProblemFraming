@@ -1,8 +1,7 @@
 # Báo cáo cá nhân — 2A202603554_DoMinhHoang
 
-> Đổi tên file theo quy tắc `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md` (MSSV trước, dấu `_`, họ tên viết liền không dấu). Sửa cả dòng tiêu đề phía trên cho khớp.
 > Template chi tiết và prompt mẫu cho từng mục: [docs/01-worksheet.md](../../docs/01-worksheet.md).
-> Mỗi thành viên một file trong `report/individual/` trên repo nhóm: copy template này thành file mới, điền, rồi commit bằng tài khoản GitHub của bạn. Không viết hộ người khác.
+> Nội dung tham gia và kết luận nhóm được đối chiếu với [báo cáo nhóm 113](../team/group_report.md). CP1–CP2 ghi lại các đề xuất cá nhân trước khi nhóm hội tụ.
 
 ## 1. Thông tin học viên
 
@@ -34,7 +33,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 - **Ý AI gợi ý được giữ lại:** Ý #2 (Gom việc sau buổi họp) và Ý #3 (Rút ý chính từ file PDF bài báo tiếng Anh) — vì đây là việc tuần nào bọn mình cũng phải làm, vừa mất thời gian vừa dễ đo đạc số phút thực tế.
 - **Ý AI gợi ý bị loại bỏ:**
   - *"Dùng chatbot tự chia bài tập cho các thành viên trong nhóm"*: Bỏ luôn vì chia việc cho ai phải nhìn vào thực lực, độ rảnh và tính cách của từng người, chỉ có nhóm trưởng ngồi nói chuyện trực tiếp mới chia được, bot không thể hiểu được hoàn cảnh thực tế.
-  - *"Trợ lý ảo tự nhắn tin giục các bạn nộp bài"*: Bỏ vì thấy thừa, cứ đặt lịch hẹn trên Google Calendar hay nhắc thẳng trong nhóm chat Zalo là xong
+  - *"Trợ lý ảo tự nhắn tin giục các bạn nộp bài"*: Ban đầu tôi cho rằng chỉ cần lịch hẹn hoặc nhắc trong nhóm chat là đủ nên loại ý tưởng này. Sau kiểm chứng ở CP4, tôi nhận ra khoảng trống là thiếu xác nhận hai chiều; nhóm chỉ giữ AI ở bước soạn nháp, còn nhóm trưởng duyệt và gửi tin nhắc.
 
 ---
 
@@ -68,7 +67,7 @@ Quy trình nháp hiện tại:
 ```text
 HIỆN TẠI — Mất khoảng 30 phút
 
-[1. Mở file nháp: 2'] → [2. Đọc lọc lại ý: 10'] → [3. Viết thành to-do list: 10'] ← BƯỚC NGHẼN NHẤT
+[1. Mở file nháp: 2'] → [2. Đọc lọc lại ý: 10'] → [3. Viết thành to-do list: 10'] ← CÙNG BƯỚC 2 LÀ BOTTLENECK
 → [4. Gắn tên & chốt hạn: 5'] → [5. Gửi vào nhóm Zalo: 3']
 ```
 
@@ -133,23 +132,39 @@ HIỆN TẠI — Mất khoảng 270 phút (4.5 tiếng)
 |---|---|---|
 | Số 30 phút có khi chỉ là cảm giác mệt mỏi sau cuộc họp chứ không hẳn lâu đến thế | Đồng ý một phần | Đã kiểm tra lại lịch sử chat Zalo của 4 buổi họp gần nhất: họp xong lúc 22h30 mà toàn 23h00 mới gửi được list việc cho các bạn. |
 | Nếu để AI tự bắt việc rồi tự gửi vào nhóm luôn thì rất dễ bịa chuyện (hallucination) hoặc giao nhầm người gây cãi nhau | Hoàn toàn đồng ý | Chốt luôn ranh giới: AI chỉ được viết nháp ra danh sách việc, trưởng nhóm bắt buộc phải liếc mắt duyệt lại 1-2 phút xem chuẩn chưa rồi mới bấm gửi. |
-| Có thể không cần đến AI nếu các thành viên tự giác ghi việc vào bảng chung trong lúc họp | Không đồng ý | Thực tế lúc thảo luận hay tranh luận nảy lửa, ai cũng lo bảo vệ ý kiến của mình, không ai có tâm trí mở bảng ra gõ chuẩn từng cột được, bắt buộc phải có bước tổng hợp lại sau đó. |
+| Có thể không cần đến AI nếu các thành viên tự giác ghi việc vào bảng chung trong lúc họp | Đồng ý một phần | Bảng chung là phương án No AI cần so sánh trước. Nếu vẫn phải tổng hợp ghi chú sau họp, AI chỉ hỗ trợ tạo bản nháp; nhóm trưởng kiểm tra người nhận và deadline trước khi gửi. |
 
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
+CP1–CP2 ghi lại các vấn đề tôi đề xuất, trong đó tôi muốn pitch nhất bài gom việc sau họp. Từ CP3, nhóm thống nhất chọn **theo dõi ai đã nắm deadline khi giao việc**, do Thành đề xuất. Các phần dưới đây tập trung vào đề tài chung này.
+
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | Trình bày bài gom việc sau họp. Nêu nỗi khổ mất 30 phút lọc ghi chú mà tuần trước vẫn bị trôi mất 3 việc quan trọng. | Nhóm thấy quen thuộc, quy trình rõ ràng và dễ mang ra thử nghiệm ngay. |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: (1) Với bạn Hạ làm bài bug: Họp lố giờ là do chưa xếp bug hay do mải bàn giải pháp? Nếu ép mỗi bug nói đúng 2 phút thì có hết lố giờ mà không cần làm tool không? (2) Với bạn Thành làm bài deadline: Bạn làm trễ là do không biết hạn chót hay biết mà vẫn cố tình làm trễ? | Giúp bạn Hạ nhận ra lỗi do cách điều phối cuộc họp. Giúp bạn Thành thấy việc nhắc nhở thôi là chưa đủ, cần người nhận cam kết rõ ràng. |
-| Nhận phản biện | Câu hỏi tôi nhận được: Lúc họp viết tắt hay nói đùa thì AI có gán nhầm việc cho người khác không? | Tôi đã sửa gì: Thêm ranh giới an toàn: cấm AI tự gửi việc, nó chỉ viết nháp và nhóm trưởng bắt buộc phải ngó qua duyệt lại 2 phút rồi mới gửi. |
-| Gom cluster / cây OST | Cùng nhóm gom các ý vào cụm họp hành giao việc, cụm quản lý lỗi và cụm báo cáo. Gạch bỏ các giải pháp đội lốt nhu cầu. | Nhóm chốt mục tiêu chung là giảm thời gian lãng phí sau các buổi họp, bỏ luôn ý tưởng làm chatbot nhắc việc thừa thãi. |
-| Chọn candidate problem | Cùng nhóm chấm điểm các đề tài theo bảng tiêu chí để chọn ra bài có số liệu rõ ràng nhất. | Thống nhất chọn đề tài theo dõi deadline của Thành vì quy trình mạch lạc và đo đạc được thời gian ngay. |
-| Kiểm chứng / research | Góp ý câu hỏi đi phỏng vấn bạn bè về các buổi họp gần đây. Lên mạng tìm xem có những công cụ nào làm việc này rồi. | Thấy các tool tóm tắt có sẵn rất nhiều nhưng toàn viết chung chung, khâu chốt đúng tên người kèm hạn nộp vẫn phải có người duyệt. |
-| Quy trình nhóm | Cùng nhóm vẽ lại quy trình cũ mất 40-50 phút và quy trình mới rút xuống còn 10-12 phút, chỉ rõ bước nào tốn thời gian nhất. | Quy trình mới bắt buộc có người duyệt cuối và có sẵn cách làm tay dự phòng nếu mất mạng hay tool lỗi. |
-| Problem Statement | Cùng nhóm gọt giũa câu tuyên bố vấn đề cho đủ ý và có con số đo lường cụ thể. | Đặt mục tiêu rõ ràng: rút ngắn từ 45 phút xuống dưới 12 phút, không nói chung chung kiểu giúp làm việc nhanh hơn. |
-| Mức can thiệp AI | Bàn với nhóm xem bài này nên dùng cách nào từ không dùng AI đến để AI tự làm hết. | Chốt chỉ dùng quy trình kết hợp AI viết nháp, kiên quyết không để AI tự quyết vì sợ giao nhầm việc gây cãi nhau. |
-| Quyết định | Cùng nhóm cân nhắc các rủi ro để đưa ra kết luận cuối cùng. | Đồng thuận chốt làm thử nghiệm nhỏ trong 2 tuần bằng công cụ có sẵn, nếu thấy vẫn bị nhầm việc nhiều thì dừng lại quay về làm tay. |
+| Pitch Problem Card | Trình bày bài gom việc sau họp thành danh sách việc cần làm; nêu bottleneck đọc lại ghi chú và viết to-do list mất 15–20 phút trong tổng 30 phút. | Candidate được đưa vào shortlist, đạt 31 điểm; được giữ làm hướng phát triển tiếp theo nếu pilot theo dõi deadline thành công. |
+| Phản biện bài của bạn khác | Hỏi Bảo: Không có AI thì cách đơn giản nhất để giảm một nửa thời gian lọc CV là gì, có dùng form lọc trước được không? Hỏi Hạ: Họp Triage lố giờ do chưa xếp thứ tự bug hay do hai Lead bắt đầu đọc ticket và bàn cách sửa ngay trong họp? Hỏi Thành: Nếu cả nhóm react “đã nhận” mà vẫn làm trễ, giảm số tin nhắc có còn chứng minh vấn đề đã được giải không? | Giúp nhóm xem xét phương án đơn giản hơn và phân biệt việc đã xác nhận deadline với việc thực sự hoàn thành đúng hạn. |
+| Nhận phản biện | Nhận câu hỏi của Bảo: Nếu ghi chép vội, viết tắt hoặc nói đùa thì AI có gán nhầm việc cho người khác không? | Bổ sung ranh giới cho đề xuất cá nhân: AI chỉ tạo danh sách việc nháp; nhóm trưởng kiểm tra người nhận và deadline trong 1–2 phút trước khi gửi. |
+| Gom cluster / cây OST | Cùng nhóm gom candidate vào 4 cụm: Theo dõi tiến độ & Giao việc; Phân loại & Xử lý yêu cầu định kỳ; Tổng hợp & Chuẩn hóa tài liệu; Phản hồi & Giao tiếp tự động. Gạch bỏ các giải pháp đội lốt nhu cầu. | Cây OST tập trung vào nhu cầu: biết ai đã nắm deadline, làm rõ chỉ dẫn, giảm nhắn giục riêng và xác định trách nhiệm sau họp. |
+| Chọn candidate problem | Cùng nhóm chấm điểm shortlist và xem xét các câu hỏi phản biện. | Đồng thuận chọn bài theo dõi ai nắm deadline của Thành, đạt 34 điểm, cao nhất shortlist; bài của tôi đạt 31 điểm. |
+| Kiểm chứng / research | Góp ý câu hỏi phỏng vấn về lần giao việc, nhắc deadline gần nhất và tìm hiểu công cụ hỗ trợ xác nhận, nhắc việc. | Nhóm tổng hợp 3 người được hỏi (2 nhóm trưởng, 1 thành viên) và đối chiếu Zalo Bình chọn/Nhắc hẹn, Trello/Notion Due Date Reminder, Geekbot/Standuply. Biết deadline chưa đảm bảo làm đúng hạn; cần xác nhận hai chiều kèm mốc cam kết nộp bản nháp. |
+| Quy trình nhóm | Cùng nhóm mô tả quy trình hiện tại mất 40–50 phút/tuần và quy trình tương lai kỳ vọng 10–12 phút/tuần. | Rule ghi nhận trạng thái xác nhận, AI soạn nháp tin nhắc, nhóm trưởng duyệt và gửi; có phương án quay về theo dõi thủ công bằng Google Sheets/Notion khi công cụ lỗi. |
+| Problem Statement | Cùng nhóm rà soát Actor, Quy trình, Bottleneck, Impact, Success Metric và Boundary; bổ sung điểm can thiệp AI, rủi ro và người kiểm tra ở v1. | Thống nhất mục tiêu giảm từ 45 xuống dưới 12 phút theo dõi/tuần, 100% xác nhận trong 24h và 0 lần trễ hạn nộp bài. Đây là mục tiêu cần kiểm chứng bằng pilot. |
+| Mức can thiệp AI | Cùng nhóm so sánh No AI, Rule, Workflow và Agent; phân biệt bước ghi nhận trạng thái với bước tạo câu chữ nhắc nhở. | Chọn Workflow kết hợp Rule: AI chỉ soạn nháp tin nhắc cho người chưa xác nhận; nhóm trưởng duyệt rồi gửi, AI không tự nhắn tin hoặc đổi deadline. |
+| Quyết định | Cùng nhóm cân nhắc 4 rủi ro Value, Usability, Feasibility và Viability. | Đồng thuận Go, phạm vi nhỏ: pilot 2 tuần trên Zalo bằng công cụ có sẵn. Dừng nếu tỷ lệ tự giác xác nhận dưới 50% sau 2 tuần hoặc duyệt tin AI mất thời gian hơn tự gõ. |
+
+### Kết luận nhóm tôi sử dụng trong báo cáo cá nhân
+
+| Nội dung | Kết luận thống nhất theo báo cáo nhóm |
+|---|---|
+| Candidate được chọn | Khi giao deadline, tôi muốn biết ai đã nắm deadline, để chủ động theo dõi tiến độ mà không phải nhắn tin giục riêng từng người. |
+| Actor | Nhóm trưởng sinh viên phụ trách tiến độ bài tập lớn/đồ án nhóm 3–5 người. |
+| Bottleneck | Nhắn tin riêng hỏi từng người đã nắm deadline chưa và giải thích lại yêu cầu; quy trình theo dõi hiện tại tốn khoảng 40–50 phút/tuần. |
+| Quy trình tương lai | Giao việc kèm xác nhận → Ghi nhận trạng thái bằng Rule → AI soạn nháp tin nhắc cho người chưa xác nhận sau 24h → Nhóm trưởng duyệt và gửi. Khi xác nhận, thành viên chọn mốc cam kết gửi bản nháp trước hạn chính thức 1 ngày. |
+| Success Metric | Giảm từ baseline 45 xuống dưới 12 phút theo dõi/tuần; 100% thành viên xác nhận trong 24h; 0 lần trễ hạn nộp bài. Các chỉ số là mục tiêu, chưa phải kết quả đạt được. |
+| Boundary | AI chỉ soạn nháp tin nhắc, không tự gửi và không tự đổi deadline. Nhóm trưởng kiểm tra đúng người, đúng task, đúng hạn và giọng điệu trước khi gửi. |
+| Mức can thiệp | Workflow kết hợp Rule; Rule xử lý trạng thái, AI hỗ trợ câu chữ theo ngữ cảnh do nhóm trưởng cung cấp. |
+| Pilot nhỏ nhất | Trong 2 tuần, nhóm trưởng tạo poll xác nhận deadline trên Zalo sau mỗi buổi họp; sau 24h nếu còn người chưa vote thì dùng prompt chuẩn để AI soạn nháp, duyệt rồi gửi. Pilot chưa có tích hợp bot tự động. |
+| Ngưỡng dừng / fallback | Dừng nếu sau 2 tuần tỷ lệ tự giác xác nhận dưới 50% hoặc duyệt tin AI tốn thời gian hơn tự gõ; quay về bảng Google Sheets và theo dõi thủ công. |
 
 ---
 
@@ -159,10 +174,10 @@ HIỆN TẠI — Mất khoảng 270 phút (4.5 tiếng)
 |---|---|---|---|---|
 | CP1 Scan | Gợi ý thêm các vấn đề thường gặp trong học tập và làm việc nhóm sinh viên | Gợi ý được góc nhìn về việc trôi task sau họp và việc tốn thời gian đọc PDF nghiên cứu dài | Đưa ra các ý tưởng viển vông, giải pháp trá hình như 'chatbot AI chia bài tập' hay 'trợ lý ảo tự nhắc việc' | Gạt bỏ ngay các ý dính giải pháp; giữ lại nỗi đau thật và tự đo đạc lại số phút thực tế |
 | CP2 Problem Card | Đóng vai người phản biện khó tính để chỉ ra điểm yếu trong Problem Card #1 | Bắt bẻ đúng điểm: số phút 30 phút có thể do cảm tính, và cảnh báo nguy cơ AI bịa việc khi giao task | Gợi ý làm Agent tự động tạo thẻ việc trên Trello rồi tự gửi vào nhóm | Giữ vững ranh giới (boundary): bắt buộc phải có nhóm trưởng đọc duyệt lại 1-2 phút trước khi gửi |
-| CP4 Research | Tìm kiếm các công cụ tương tự trên thị trường đang giải quyết bài toán theo dõi deadline | Gợi ý nhanh các công cụ như Geekbot, Standuply, Zalo Poll và Trello reminder | Đưa ra nhận định hời hợt là 'chỉ cần cài bot là xong', không thấy được rào cản tâm lý ngại trả lời bot của sinh viên | Bổ sung phân tích thực tế: sinh viên rất ghét bị bot spam; giải pháp cần cơ chế xác nhận 1-chạm gọn nhẹ |
-| CP5 Quy trình | Chuyển các bước mô tả quy trình sang dạng sơ đồ trực quan và gợi ý bảng so sánh Before/After | Dựng khung quy trình trước và sau nhanh, tính toán chênh lệch thời gian logic | Gợi ý để AI tự động nhắn tin nhắc nhở thẳng cho thành viên mà bỏ qua bước con người kiểm tra | Thêm bước kiểm tra bắt buộc của nhóm trưởng (Human-in-the-loop) và bổ sung phương án quay về cách thủ công nếu mất mạng |
-| CP5–6 Problem Statement | Rà soát câu chữ trong bản Problem Statement xem đã đủ 6 trường cốt lõi chưa | Nhắc nhở kiểm tra chỉ số thành công (Success Metric) xem đã có mốc đo cụ thể chưa | Viết câu mục tiêu khá sáo rỗng kiểu 'giúp nâng cao hiệu suất làm việc nhóm' | Thay bằng con số đo lường chính xác: giảm từ 45 phút xuống dưới 12 phút/tuần và 100% xác nhận trong 24h |
-| CP6 Mức can thiệp / quyết định | Đặt câu hỏi phản biện về 4 rủi ro (Value, Usability, Feasibility, Viability) | Giúp nhóm phân biệt rõ giữa việc dùng Rule thuần túy với Workflow và Autonomous Agent | Khuyên nên thử nghiệm làm Agent tự trị để tối ưu hóa hoàn toàn | Nhóm kiên quyết từ chối làm Agent, chỉ chọn Workflow kết hợp Rule vì rủi ro giao nhầm việc gây mất đoàn kết nội bộ |
+| CP4 Research | Tìm hiểu các công cụ hỗ trợ theo dõi deadline và xác nhận nhận việc | Gợi ý Zalo Bình chọn/Nhắc hẹn, Trello/Notion Due Date Reminder, Geekbot/Standuply để nhóm đối chiếu | Nhận định đơn giản rằng chỉ cần cài bot nhắc việc là đủ | Bổ sung insight từ kiểm chứng của nhóm: tin nhắc một chiều chưa đủ; cần xác nhận hai chiều kèm cam kết nộp bản nháp và tránh gây phiền vì nhắc quá nhiều |
+| CP5 Quy trình | Chuyển các bước mô tả quy trình sang sơ đồ và bảng Before/After | Dựng khung các bước và vị trí con người, Rule, AI tham gia | Gợi ý để AI tự nhắn nhắc mà bỏ qua bước duyệt của nhóm trưởng | Tách rõ Rule ghi nhận trạng thái, AI soạn nháp và nhóm trưởng duyệt/gửi; bổ sung fallback thủ công khi công cụ lỗi |
+| CP5–6 Problem Statement | Rà soát các trường cốt lõi, điểm can thiệp AI và chỉ số thành công | Nhắc cần có baseline, target và boundary cụ thể | Viết mục tiêu chung chung như “nâng cao hiệu suất làm việc nhóm” | Dùng chỉ số của nhóm: 45 xuống dưới 12 phút/tuần, 100% xác nhận trong 24h, 0 lần trễ hạn; xác định đây là mục tiêu pilot |
+| CP6 Mức can thiệp / quyết định | Phản biện 4 rủi ro và so sánh No AI, Rule, Workflow, Agent | Làm rõ vai trò hỗ trợ của AI trong giao tiếp và quyền quyết định của nhóm trưởng | Đề xuất Agent tự trị vượt quá nhu cầu và phạm vi kiểm soát của nhóm | Chọn Workflow kết hợp Rule, AI chỉ soạn nháp tin nhắc; thống nhất pilot 2 tuần với ngưỡng dừng cụ thể |
 
 ---
 
@@ -174,30 +189,32 @@ Nghe bài của các bạn tôi mới thấy mỗi người một nỗi khổ ri
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 
-Có chứ, nhóm tôi bị ngay từ lúc đầu. Vừa nghe Thành bảo hay bị trôi việc là cả nhóm nhảy vào đòi code bot Discord với chatbot AI tự động giục deadline liền. May mà lúc nhìn lại cây OST, nhóm mới giật mình thấy toàn nói về công cụ chứ chưa hiểu vì sao người ta trễ hạn. Thế là cả bọn dừng lại, xóa hết mấy chữ chatbot đi để tập trung tìm hiểu xem các bạn trong nhóm đang gặp khó khăn ở khâu nào.
+Có. Khi bàn về giao việc và deadline, nhóm sớm nghĩ đến chatbot tự nhắc, bảng Trello/Notion đổi màu hoặc AI tự chia task. Khi dựng OST, nhóm nhận ra đó là công cụ và tính năng, chưa phải opportunity. Nhóm gạch bỏ các ý này khỏi nhánh nhu cầu, rồi tập trung vào việc nhóm trưởng không biết ai đã nắm deadline, thành viên nhận chỉ dẫn thiếu rõ ràng và mất thời gian nhắn giục riêng. Sau kiểm chứng, nhóm thu hẹp giải pháp vào xác nhận hai chiều và hỗ trợ soạn tin nhắc có người duyệt.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-Tôi đổi ý luôn vụ chọn đề tài. Lúc đầu tôi khoái bài gom việc sau họp của mình lắm vì nghĩ tuần nào cũng họp. Nhưng Thành với Bảo vặn lại một câu rất đúng: "Gom việc xong mà gửi vào nhóm không ai thèm đọc, không ai nhận hạn nộp thì việc vẫn toang như thường". Thấy chí lý quá nên tôi rút lui luôn, chuyển sang ủng hộ bài của Thành vì nó giải quyết đúng cái nút thắt tiếp theo.
+Có. Ban đầu tôi muốn chọn bài gom việc sau họp vì quy trình quen thuộc, mất khoảng 30 phút và có thể thử bằng ghi chú sẵn có. Bảo đặt câu hỏi về nguy cơ AI gán nhầm việc khi ghi chú viết tắt hoặc có lời nói đùa; tôi bổ sung bước nhóm trưởng duyệt danh sách nháp. Khi so sánh shortlist, tôi cũng nhận ra sau khi tổng hợp vẫn cần người nhận xác nhận deadline. Tôi đồng thuận chọn bài của Thành đạt 34 điểm, còn bài của tôi đạt 31 điểm và được giữ làm hướng phát triển tiếp theo.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
-Bất ngờ nhất là lúc đi hỏi mấy bạn nhóm khác. Hóa ra nhiều bạn nộp trễ không phải vì quên deadline hay lười, mà do bị ngợp vì nhiều môn dồn bài cùng lúc nên không biết ưu tiên cái nào trước. Với cả lên mạng tìm thì thấy mấy tool nhắc việc có đầy rồi, không việc gì phải cắm đầu tự đi code một con bot mới làm gì cho mệt.
+Điều khiến tôi bất ngờ là thành viên có thể biết rõ deadline nhưng vẫn làm trễ vì nhiều môn dồn bài cùng lúc. Kết quả nhóm tổng hợp từ 3 người được hỏi (2 nhóm trưởng, 1 thành viên) cho thấy cần phân biệt “đã nắm hạn” với “có thể hoàn thành đúng hạn”. Nhóm vì vậy bổ sung mốc cam kết nộp bản nháp trước hạn chính thức 1 ngày. Research cũng cho thấy đã có các công cụ xác nhận và nhắc việc, nên pilot có thể tận dụng Zalo và prompt chuẩn thay vì xây hệ thống mới ngay.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-Khó nhất là không được nhét giải pháp vào câu chữ và phải ép mọi thứ ra con số đo lường thật. Lúc đầu cứ quen tay viết chung chung kiểu "giúp nhóm làm việc hiệu quả hơn". Sau đó cả nhóm phải ngồi cãi nhau từng tí để chốt số liệu cụ thể: giảm từ 45 phút xuống dưới 12 phút/tuần, 100% xác nhận trong 24h và không còn ai bị trễ bài.
+Khó nhất là diễn đạt rõ bước nghẽn và gắn mục tiêu với số đo cụ thể. Nhóm chốt baseline 45 phút theo dõi/tuần, mục tiêu dưới 12 phút/tuần, 100% xác nhận trong 24h và 0 lần trễ hạn nộp bài. Tôi cũng phải tách số liệu hiện tại khỏi kỳ vọng: quy trình tương lai dự kiến mất 10–12 phút/tuần, nhưng chưa có kết quả pilot để khẳng định đã đạt. Việc thành viên bấm xác nhận chỉ là một chỉ số, cần theo dõi thêm cam kết bản nháp và hạn nộp thực tế.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
-Nếu làm lại từ đầu, tôi sẽ giục nhóm đi hỏi người thật sớm hơn để đỡ mất thời gian ngồi đoán mò. Tôi cũng sẽ vặn nhóm kỹ hơn ở chỗ: nếu thành viên cứ bấm nút "Đã nhận" cho có lệ mà thực tế không chịu mở bài ra làm thì tính sao, để nhóm nghĩ thêm cách kiểm tra cho chặt chẽ hơn.
+Tôi sẽ đề nghị kiểm chứng sớm hơn và mở rộng ngoài 3 người để tránh kết luận quá rộng từ mẫu nhỏ. Tôi sẽ hỏi kỹ hơn cách phân biệt người xác nhận cho có với người thực sự bắt đầu làm, cũng như cách kiểm tra mốc bản nháp. Tôi cũng muốn so sánh thời gian duyệt tin AI với thời gian dùng template cố định để xem AI có thực sự mang lại lợi ích. Trong pilot, cần ghi riêng thời gian theo dõi chủ động và thời gian chờ phản hồi để đánh giá mục tiêu nhất quán.
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
-Bài của nhóm bắt đầu từ việc nhóm trưởng mất 40–50 phút mỗi tuần đi nhắn tin riêng giục từng người vì không biết ai đã nắm deadline. Nhóm sửa lại quy trình: nhóm trưởng gửi việc kèm nút bấm xác nhận 1-chạm, ai chưa bấm sau 24h thì AI sẽ soạn nháp tin nhắc khéo léo để nhóm trưởng duyệt rồi gửi. Mục tiêu đo bằng số rõ ràng là giảm thời gian theo dõi xuống dưới 12 phút/tuần và 100% bạn bấm xác nhận đúng hạn. Ranh giới an toàn là AI tuyệt đối không được tự ý nhắn tin hay tự đổi hạn chót, trưởng nhóm luôn là người duyệt cuối cùng. Nhóm chọn mức Workflow kết hợp Rule vì vừa đủ xài, đơn giản và không lo AI nói linh tinh. Quyết định cuối cùng là "Go phạm vi nhỏ", làm thử 2 tuần bằng công cụ miễn phí có sẵn, nếu không hiệu quả thì dừng lại quay về làm tay.
+Bài nhóm bắt đầu từ việc nhóm trưởng sinh viên mất khoảng 40–50 phút mỗi tuần theo dõi vì không biết ai đã nắm deadline và phải nhắn giục riêng. Quy trình tương lai là giao việc kèm xác nhận, ghi nhận trạng thái bằng Rule, rồi AI soạn nháp tin nhắc cho người chưa xác nhận sau 24h để nhóm trưởng duyệt và gửi. Khi xác nhận, thành viên chọn mốc cam kết nộp bản nháp trước hạn chính thức 1 ngày. Mục tiêu là giảm thời gian theo dõi từ baseline 45 xuống dưới 12 phút/tuần, đạt 100% xác nhận trong 24h và 0 lần trễ hạn nộp bài. Ranh giới là AI chỉ soạn nháp, không tự gửi tin và không tự đổi deadline; nhóm trưởng kiểm tra đúng người, đúng việc, đúng hạn và giọng điệu. Nhóm chọn Workflow kết hợp Rule, trong đó con người quyết định hành động cuối cùng. Quyết định là Go, phạm vi nhỏ với pilot 2 tuần trên Zalo bằng poll và prompt chuẩn, rồi dừng và quay về Google Sheets nếu tỷ lệ tự giác xác nhận dưới 50% hoặc duyệt tin AI mất thời gian hơn tự gõ.
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- [Báo cáo nhóm 113 — Day 02 Discovery & Problem Framing](../team/group_report.md): căn cứ đối chiếu kết quả CP3–CP6, quy trình, metric, boundary và quyết định pilot.
+- [Worksheet Day 02](../../docs/01-worksheet.md): cấu trúc Problem Card, nhật ký tham gia và reflection cá nhân.
+- Các tài liệu và công cụ nhóm đã tổng hợp được liệt kê tại mục 3.3 (Research giải pháp đã có) và mục 10 (Tài liệu tham khảo) của báo cáo nhóm.
